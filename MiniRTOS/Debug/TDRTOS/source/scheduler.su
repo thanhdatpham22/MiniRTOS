@@ -1,0 +1,13 @@
+../TDRTOS/source/scheduler.c:62:13:idleTaskFunction	16	static,ignoring_inline_asm
+../TDRTOS/source/scheduler.c:86:20:triggerContextSwitch	4	static,ignoring_inline_asm
+../TDRTOS/source/scheduler.c:97:6:TDRTOS_SchedulerInit	32	static
+../TDRTOS/source/scheduler.c:133:5:TDRTOS_AddTask	16	static,ignoring_inline_asm
+../TDRTOS/source/scheduler.c:162:6:TDRTOS_SelectNextTask	32	static
+../TDRTOS/source/scheduler.c:211:6:TDRTOS_TickHandler	16	static
+../TDRTOS/source/scheduler.c:244:6:TDRTOS_Delay	16	static,ignoring_inline_asm
+../TDRTOS/source/scheduler.c:269:10:TDRTOS_GetTickCount	4	static
+../TDRTOS/source/scheduler.c:275:8:TDRTOS_GetCurrentTCB	4	static
+../TDRTOS/source/scheduler.c:281:13:startSysTick	4	static
+../TDRTOS/source/scheduler.c:305:6:TDRTOS_Start	24	static,ignoring_inline_asm
+../TDRTOS/source/scheduler.c:381:29:OS_PendSV_Handler	0	static,ignoring_inline_asm
+../TDRTOS/source/scheduler.c:451:6:OS_SysTick_Handler	8	static

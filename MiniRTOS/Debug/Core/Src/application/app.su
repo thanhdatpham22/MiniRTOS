@@ -1,0 +1,3 @@
+../Core/Src/application/app.c:32:6:Task1Function	16	static
+../Core/Src/application/app.c:48:6:Task2Function	16	static
+../Core/Src/application/app.c:63:6:Task3Function	16	static

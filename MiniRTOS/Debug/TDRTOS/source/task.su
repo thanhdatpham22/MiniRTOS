@@ -1,0 +1,4 @@
+../TDRTOS/source/task.c:53:32:TDRTOS_TaskExitError	4	static
+../TDRTOS/source/task.c:57:5:TDRTOS_TaskCreate	32	static
+../TDRTOS/source/task.c:137:5:TDRTOS_TaskCheckStackOverflow	16	static
+../TDRTOS/source/task.c:157:13:TDRTOS_TaskGetState	16	static
